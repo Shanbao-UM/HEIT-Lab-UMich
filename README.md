@@ -1,1 +1,3 @@
-# HFET-Lab
+# HEIT-Lab
+The HEIT (Human Factors and Emerging Intelligent Technologies) Lab seeks to understand and enhance Human, System, and Environment interactions by applying Human Factors theories, design principles, AI techniques, and employing analytic data science approaches. The goal of our work is to improve user safety and user experiences. In particular, we focus on applying statistical and data mining techniques to analyze and model driver behavior, along with other road users' when they interact with new emerging technologies and systems under variety of dynamic environment.
+https://sites.google.com/umich.edu/heit-lab/home
